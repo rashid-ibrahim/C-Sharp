@@ -1,0 +1,6 @@
+C:\Users\Neogenics\Google Drive\11. Summer 2016\Itec 0001\notVirri\totalla_not_a_virus\totalla_not_a_virus\bin\Debug\totalla_not_a_virus.exe.config
+C:\Users\Neogenics\Google Drive\11. Summer 2016\Itec 0001\notVirri\totalla_not_a_virus\totalla_not_a_virus\bin\Debug\totalla_not_a_virus.exe
+C:\Users\Neogenics\Google Drive\11. Summer 2016\Itec 0001\notVirri\totalla_not_a_virus\totalla_not_a_virus\bin\Debug\totalla_not_a_virus.pdb
+C:\Users\Neogenics\Google Drive\11. Summer 2016\Itec 0001\notVirri\totalla_not_a_virus\totalla_not_a_virus\obj\Debug\totalla_not_a_virus.csprojResolveAssemblyReference.cache
+C:\Users\Neogenics\Google Drive\11. Summer 2016\Itec 0001\notVirri\totalla_not_a_virus\totalla_not_a_virus\obj\Debug\totalla_not_a_virus.exe
+C:\Users\Neogenics\Google Drive\11. Summer 2016\Itec 0001\notVirri\totalla_not_a_virus\totalla_not_a_virus\obj\Debug\totalla_not_a_virus.pdb
